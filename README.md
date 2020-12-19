@@ -1,1 +1,1 @@
-# probability-theory-statistics
+# Теория вероятностей и математическая статистика
